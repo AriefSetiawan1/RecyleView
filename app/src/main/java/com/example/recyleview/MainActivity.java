@@ -32,10 +32,10 @@ public class MainActivity extends AppCompatActivity {
 
      void addData() {
          mahasiswaArrayList = new ArrayList<>();
-         mahasiswaArrayList.add(new Mahasiswa("Dimas Maulana", "999", "081222","email"));
-         mahasiswaArrayList.add(new Mahasiswa("Budi", "000", "081222", "email"));
-         mahasiswaArrayList.add(new Mahasiswa("Ani", "222", "083333", "email budi"));
-         Mahasiswa Sari = new Mahasiswa("Sari", "xxx" , "000", "sari@gmail.com");
+         mahasiswaArrayList.add(new Mahasiswa("Lina", "514", "083567","email"));
+         mahasiswaArrayList.add(new Mahasiswa("Boni", "693", "082778", "Boni@gmail.com"));
+         mahasiswaArrayList.add(new Mahasiswa("Ika", "982", "089123", "email Ika"));
+         Mahasiswa Sari = new Mahasiswa("Joko", "291" , "089645", "email");
          mahasiswaArrayList.add(Sari);
     }
 }
