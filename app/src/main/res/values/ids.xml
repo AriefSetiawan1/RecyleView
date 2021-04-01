@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txt_nama_mahasiswa" type="id" />
+    <item name="txt_npm_mahasiswa" type="id" />
+    <item name="txt_nohp_mahasiswa" type="id" />
+    <item name="txtemail" type="id" />
+</resources>
